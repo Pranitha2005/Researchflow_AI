@@ -63,6 +63,11 @@ ResearchFlow AI helps users analyze research papers, retrieve relevant informati
 - PostgreSQL with pgvector
 - Retrieval-Augmented Generation (RAG)
 
+
+## 🏗️ System Architecture
+
+![ResearchFlow AI Analysis Results](Screenshots/System_Architecture_Diagram.png)
+
 ## 🏗️ Project Structure
 
 ```text
