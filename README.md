@@ -8,11 +8,11 @@ ResearchFlow AI helps users analyze research papers, retrieve relevant informati
 
 ### Application Interface
 
-![ResearchFlow AI Application](screenshots/application.png)
+![ResearchFlow AI Application](Screenshots/Application.png)
 
 ### AI Analysis Results
 
-![ResearchFlow AI Analysis Results](screenshots/analysis-results.png)
+![ResearchFlow AI Analysis Results](Screenshots/Analysing.png)
 
 
 ## ✨ Features
