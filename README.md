@@ -16,21 +16,21 @@ ResearchFlow AI helps users analyze research papers, retrieve relevant informati
 
 ### Document Analysis Agent
 
-![ResearchFlow AI Analysis Results](Screenshots/Document_Analysis.png)
+![ResearchFlow AI Analysis Results](Screenshots\Document_Analysis.png)
 
 ### Methodology Agent
 
-![ResearchFlow AI Analysis Results](Screenshots/Methodology.png)
+![ResearchFlow AI Analysis Results](Screenshots\Methodology.png)
 
 ### Research_Gap Agent
 
-![ResearchFlow AI Analysis Results](Screenshots/Research_gap.png)
+![ResearchFlow AI Analysis Results](Screenshots\Research_gap.png)
 
 ### Overall Report
 
-![ResearchFlow AI Analysis Results](Screenshots/Final_report.png)
-![ResearchFlow AI Analysis Results](Screenshots/FinalReport2.png)
-![ResearchFlow AI Analysis Results](Screenshots/Final Report3.png)
+![ResearchFlow AI Analysis Results](Screenshots\Final_report.png)
+![ResearchFlow AI Analysis Results](Screenshots\FinalReport2.png)
+![ResearchFlow AI Analysis Results](Screenshots\Final Report3.png)
 
 
 ## ✨ Features
