@@ -4,6 +4,17 @@
 
 ResearchFlow AI helps users analyze research papers, retrieve relevant information, and generate structured insights from uploaded PDF documents.
 
+## 📸 Application Screenshots
+
+### Application Interface
+
+![ResearchFlow AI Application](screenshots/application.png)
+
+### AI Analysis Results
+
+![ResearchFlow AI Analysis Results](screenshots/analysis-results.png)
+
+
 ## ✨ Features
 
 - **PDF Upload:** Upload research papers for analysis.
